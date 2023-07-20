@@ -4,8 +4,8 @@ This repository contains solutions for various JavaScript and PHP programming ta
 
 ## 🎯 Objectives
 
-1. Implementation of JavaScript with HTML file.
-2. Basic program of JavaScript defining variables, operators, conditions, and loop.
+1. [Implementation of JavaScript with HTML file.](JS/01.html)
+2. [Basic program of JavaScript defining variables, operators, conditions, and loop.](JS/02.js)
 3. JavaScript built-in objects and its methods.
    a. Array
    b. Number
@@ -53,7 +53,3 @@ To explore a specific topic, navigate to the corresponding directory and open th
 Contributions to this repository are welcome! If you want to add more topics, improve existing solutions, or fix any issues, feel free to create a pull request.
 
 Let's learn and grow together! 🌱
-
-## 📄 License
-
-This repository is licensed under the [MIT License](LICENSE).
