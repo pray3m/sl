@@ -6,13 +6,13 @@ This repository contains solutions for various JavaScript and PHP programming ta
 
 1. [Implementation of JavaScript with HTML file.](JS/01.html)
 2. [Basic program of JavaScript defining variables, operators, conditions, and loop.](JS/02.js)
-3. JavaScript built-in objects and its methods.
+3. [JavaScript built-in objects and its methods.](JS/03.js)
    a. Array
    b. Number
    c. String
    d. Date
    e. Window
-4. Document Object Model (DOM) in JavaScript.
+4. [Document Object Model (DOM) in JavaScript.](JS/03.md)
 5. Event handling using JavaScript.
 6. Client-side cookies.
 7. Function and recursive function using JavaScript.
