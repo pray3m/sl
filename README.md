@@ -14,7 +14,7 @@ This repository contains solutions for various JavaScript and PHP programming ta
    e. Window
 4. [Document Object Model (DOM) in JavaScript.](JS/03.md)
 5. [Event handling using JavaScript.](JS/04.md)
-6. Client-side cookies.
+6. [Client-side cookies.](JS/05.md)
 7. Function and recursive function using JavaScript.
 8. Creating a chess board using JavaScript.
 
