@@ -16,7 +16,7 @@ This repository contains solutions for various JavaScript and PHP programming ta
 5. [Event handling using JavaScript.](JS/04.md)
 6. [Client-side cookies.](JS/05.md)
 7. [Function and recursive function using JavaScript.](JS/06.md)
-8. Creating a chess board using JavaScript.
+8. [Creating a chess board using JavaScript.](JS/08.md)
 
 ## 🐘 PHP Topics
 
