@@ -1,4 +1,4 @@
-# 🚀 Scripting Language | JavaScript and PHP 🎉
+# 🚀 Scripting Language | Js and PHP
 
 This repository contains solutions for various JavaScript and PHP programming tasks and topics. Each topic is implemented as a separate program, and this README serves as a guide to navigate through the repository.
 
@@ -15,7 +15,7 @@ This repository contains solutions for various JavaScript and PHP programming ta
 4. [Document Object Model (DOM) in JavaScript.](JS/03.md)
 5. [Event handling using JavaScript.](JS/04.md)
 6. [Client-side cookies.](JS/05.md)
-7. Function and recursive function using JavaScript.
+7. [Function and recursive function using JavaScript.](JS/06.md)
 8. Creating a chess board using JavaScript.
 
 ## 🐘 PHP Topics
