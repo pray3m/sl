@@ -4,7 +4,7 @@ This repository contains solutions for various JavaScript and PHP programming ta
 
 ## 🎯 Objectives
 
-1. [Implementation of JavaScript with HTML file.](JS/01.html)
+1. [Implementation of JavaScript with HTML file.](JS/01.md)
 2. [Basic program of JavaScript defining variables, operators, conditions, and loop.](JS/02.js)
 3. [JavaScript built-in objects and its methods.](JS/03.js)
    a. Array
