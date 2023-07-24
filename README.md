@@ -20,7 +20,7 @@ This repository contains solutions for various JavaScript and PHP programming ta
 
 ## 🐘 PHP Topics
 
-9. Basic program using PHP defining variables, operators, conditions, and loop.
+9. [Basic program using PHP defining variables, operators, conditions, and loop.](PHP/01.php)
 10. Form handling and form validation using PHP.
 11. File handling using PHP.
 12. Uploading file using PHP.
