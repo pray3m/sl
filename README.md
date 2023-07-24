@@ -24,13 +24,13 @@ This repository contains solutions for various JavaScript and PHP programming ta
 10. [Form handling and form validation using PHP.](PHP/02.md)
 11. [File handling using PHP.](PHP/03.md)
 12. [Uploading file using PHP.](PHP/04.md)
-13. [Database connection in PHP.](PHP/05-db_connection.php)
+13. [Database connection in PHP.](PHP/05-db_connection.php).
 14. CRUD operation using PHP.
 15. Sending email using PHP.
 16. Session in PHP.
 17. Cookies in PHP.
 18. Object-oriented programming in PHP.
-    - Implement class with properties and methods and create an object of that class.
+    - Implement class with properties and methods and create an object of that class..
 19. Inheritance in OOP using PHP.
 20. Polymorphism in OOP using PHP.
 21. Exception handling in OOP using PHP.
