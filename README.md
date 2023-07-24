@@ -23,7 +23,7 @@ This repository contains solutions for various JavaScript and PHP programming ta
 9. [Basic program using PHP defining variables, operators, conditions, and loop.](PHP/01.php)
 10. [Form handling and form validation using PHP.](PHP/02.md)
 11. [File handling using PHP.](PHP/03.md)
-12. Uploading file using PHP.
+12. [Uploading file using PHP.](PHP/04.md)
 13. Database connection in PHP.
 14. CRUD operation using PHP.
 15. Sending email using PHP.
