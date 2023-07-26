@@ -28,9 +28,9 @@ This repository contains solutions for various JavaScript and PHP programming ta
 14. [CRUD operation using PHP.](PHP/06-crud.md)
 15. [Sending email using PHP.](PHP/07.md)
 16. [Session in PHP.](PHP/08-session.md)
-17. Cookies in PHP.
+17. [Cookies in PHP.](PHP/09-cookies.md)
 18. Object-oriented programming in PHP.
-    - Implement class with properties and methods and create an object of that class..
+    - Implement class with properties and methods and create an object of that class.
 19. Inheritance in OOP using PHP.
 20. Polymorphism in OOP using PHP.
 21. Exception handling in OOP using PHP.
