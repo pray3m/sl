@@ -6,6 +6,19 @@ PHP makes use of mail() function to send an email. This function requires three 
 specify the recipient's email address,the subject of the the message and the actual message additionally 
 there are other two optional parameters.
 
+
+
+
+# Uploading File Using PHP
+
+## HTML Form (upload.html)
+
+
+
+## PHP File Upload Handler (upload.php)
+
+```php
+
 <?php
 $to = "test@test.com"; // Recipient's email address
 $subject = "Your subject"; // Subject of the email
@@ -21,4 +34,6 @@ if (mail($to, $subject, $message, $headers)) {
     echo "Failed to send the email.";
 }
 ?>
+
+```
 
