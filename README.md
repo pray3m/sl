@@ -31,7 +31,7 @@ This repository contains solutions for various JavaScript and PHP programming ta
 17. [Cookies in PHP.](PHP/09-cookies.md)
 18. [Object-oriented programming in PHP.](PHP/10-oop.md)
     - Implement class with properties and methods and create an object of that class.
-19. Inheritance in OOP using PHP.
+19. [Inheritance in OOP using PHP.](PHP/11.md)
 20. Polymorphism in OOP using PHP.
 21. Exception handling in OOP using PHP.
 
