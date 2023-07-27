@@ -32,8 +32,8 @@ This repository contains solutions for various JavaScript and PHP programming ta
 18. [Object-oriented programming in PHP.](PHP/10-oop.md)
     - Implement class with properties and methods and create an object of that class.
 19. [Inheritance in OOP using PHP.](PHP/11.md)
-20. Polymorphism in OOP using PHP.
-21. Exception handling in OOP using PHP.
+20. [Polymorphism in OOP using PHP.](PHP/12-polymorphism.md)
+21. [Exception handling in OOP using PHP.](PHP/13-exception.md)
 
 ## 📁 Other Topics
 
