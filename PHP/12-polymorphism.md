@@ -6,7 +6,6 @@ This helps us perform the same action in different ways.
 ```php
 
 <?php
-<?php
 // Parent class
 class Animal {
     public function makeSound() {
@@ -42,6 +41,5 @@ animalSound($dog); // Output: "Dog barks."
 animalSound($cat); // Output: "Cat meows."
 ?>
 
-?>
 
 ```

@@ -6,7 +6,6 @@ taken care of.
 ```php
 
 <?php
-<?php
 class MyCustomException extends Exception {}
 
 function divide($numerator, $denominator) {
@@ -27,6 +26,5 @@ try {
 ?>
 
 
-?>
 
 ```
