@@ -1,7 +1,7 @@
-# Sending mail in PHP
+# Polymorphism in PHP
 
 Polymorphism in PHP can be defined as the ability of an object to take many forms.
- This helps us perform the same action in different ways.
+This helps us perform the same action in different ways.
 
 ```php
 
