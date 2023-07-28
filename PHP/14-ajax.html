@@ -5,12 +5,12 @@
 </head>
 <body>
   <h1>Product Fetcher</h1>
-  <button onclick="fetchRandomNumber()">Get a product</button>
+  <button onclick="fetchProduct()">Get a product</button>
   <p id="product"></p>
 
   <script>
     
-    function fetchRandomNumber() {
+    function fetchProduct() {
       var xhr = new XMLHttpRequest();
       xhr.onreadystatechange = function() {
         if (xhr.readyState === 4 && xhr.status === 200) {
