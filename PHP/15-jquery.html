@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>jQuery Counter</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+  <!-- jQuery is a lightweight, "write less, do more", JavaScript library.
+
+The purpose of jQuery is to make it much easier to use JavaScript on your website.
+
+jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code. -->
+  <h1>jQuery Counter</h1>
+  <button id="incrementBtn">Increment</button>
+  <button id="decrementBtn">Decrement</button>
+  <p id="counter">0</p>
+
+  <script>
+    // jQuery code
+    $(document).ready(function() {
+      // Initialize the counter value
+      var counterValue = 0;
+
+      // Function to update the counter display
+      function updateCounter() {
+        $('#counter').text(counterValue);
+      }
+
+      // Increment button click handler
+      $('#incrementBtn').click(function() {
+        counterValue++;
+        updateCounter();
+      });
+
+      // Decrement button click handler
+      $('#decrementBtn').click(function() {
+        counterValue--;
+        updateCounter();
+      });
+    });
+  </script>
+</body>
+</html>
