@@ -37,8 +37,8 @@ This repository contains solutions for various JavaScript and PHP programming ta
 
 ## 📁 Other Topics
 
-22. Program defining Ajax.
-23. Basic program of implementing jQuery.
+22. [Program defining Ajax.](PHP/14-ajax.html)
+23. [Basic program of implementing jQuery.](PHP/15-jquery.html)
 
 ## 📂 Repository Structure
 
